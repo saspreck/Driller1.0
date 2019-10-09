@@ -1,0 +1,16 @@
+﻿  Driller.cpp
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(223,53): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(223,82): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(225,39): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(289,52): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(289,81): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(291,38): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Search.h(26,40): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(209): message :  see reference to function template instantiation '__int64 binarySearch<DrillingRecord>(const T &,const ResizableArray<T> &,const Comparator<T> &)' being compiled
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(209): message :         with
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(209): message :         [
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(209): message :             T=DrillingRecord
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Driller.cpp(209): message :         ]
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Search.h(42,67): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\Skyler\Desktop\Data Structures\Project1\Project1\Search.h(42,79): warning C4244:  'argument': conversion from '__int64' to 'unsigned long', possible loss of data
+  Project1.vcxproj -> C:\Users\Skyler\Desktop\Data Structures\Project1\Debug\Project1.exe
